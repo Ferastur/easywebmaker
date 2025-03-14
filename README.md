@@ -28,6 +28,7 @@ It is built using **PHP, HTML, JavaScript, and Bootstrap**, ensuring flexibility
 ```bash
 git clone https://github.com/Ferastur/easywebmaker.git
 cd easywebmaker
+```
 Deploy on a local or online server with PHP support.
 Open index.php in your browser and start building your website.
 
@@ -56,11 +57,11 @@ Tecnologías Utilizadas
 ⚡ Bootstrap: Asegura un diseño profesional y adaptable a cualquier dispositivo.
 
 Instalación y Uso
-bash
-Copiar
-Editar
+
+```bash
 git clone https://github.com/Ferastur/easywebmaker.git
 cd easywebmaker
+```
 Despliega en un servidor local o en línea con soporte PHP.
 Abre index.php en tu navegador y comienza a crear tu sitio web.
 
